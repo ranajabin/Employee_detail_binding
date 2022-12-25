@@ -1,0 +1,25 @@
+{
+    "employees": [
+        {
+            "employeeId": 100,
+            "firstName": "AMit",
+            "lastName": "Singh",
+            "email": "amit123@example.com",
+            "hireDate": "2002-20-16"
+        },
+        {
+            "employeeId": 111,
+            "firstName": "Amrita",
+            "lastName": "poonam",
+            "email": "amrita222@example.com",
+            "hireDate": "2002-09-20"
+        },
+        {
+            "employeeId": 330,
+            "firstName": "Nitish",
+            "lastName": "Singh",
+            "email": "nitish321@example.com",
+            "hireDate": "2002-02-10"
+        }
+    ]
+}
